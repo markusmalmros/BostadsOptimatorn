@@ -1,0 +1,1 @@
+Hi <?php echo htmlspecialchars($_POST['pris']); ?>.You are <?php echo (int)$_POST['slider']; ?> years old.
